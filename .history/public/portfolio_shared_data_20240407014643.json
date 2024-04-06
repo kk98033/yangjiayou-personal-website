@@ -34,11 +34,6 @@
         "level": "100"
       },
       {
-        "name": "AWS",
-        "class": "devicon-amazonwebservices-plain-wordmark",
-        "level": "100"
-      },
-      {
         "name": "HTML 5",
         "class": "devicon-html5-plain",
         "level": "95"
@@ -64,13 +59,8 @@
         "level": "70"
       },
       {
-        "name": "jQuery",
-        "class": "devicon-jquery-plain",
-        "level": "70"
-      },
-      {
-        "name": "Node.js",
-        "class": "devicon-nodejs-plain",
+        "name": "Node.js
+        ","class": "devicon-nodejs-plain",
         "level": "70"
       },
       {
@@ -84,6 +74,11 @@
         "level": "85"
       },
       {
+        "name": "Unity",
+        "class": "devicon-unity-plain",
+        "level": "75"
+      },
+      {
         "name": "C#",
         "class": "devicon-csharp-plain",
         "level": "65"
@@ -94,11 +89,6 @@
         "level": "100"
       },
       {
-        "name": "Firebase",
-        "class": "devicon-firebase-plain",
-        "level": "100"
-      },
-      {
         "name": "Apache",
         "class": "devicon-apache-plain",
         "level": "100"
@@ -106,16 +96,6 @@
       {
         "name": "Socket.IO",
         "class": "devicon-socketio-original",
-        "level": "100"
-      },
-      {
-        "name": "Unity",
-        "class": "devicon-unity-plain",
-        "level": "75"
-      },
-      {
-        "name": "Photoshop",
-        "class": "devicon-photoshop-plain",
         "level": "100"
       }
     ]

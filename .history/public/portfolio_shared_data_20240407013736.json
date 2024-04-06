@@ -24,19 +24,9 @@
   "skills": {
     "icons": [
       {
-        "name": "Python",
-        "class": "devicon-python-plain",
-        "level": "100"
-      },
-      {
-        "name": "GCP",
-        "class": "devicon-googlecloud-plain",
-        "level": "100"
-      },
-      {
-        "name": "AWS",
-        "class": "devicon-amazonwebservices-plain-wordmark",
-        "level": "100"
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
       },
       {
         "name": "HTML 5",
@@ -49,8 +39,8 @@
         "level": "95"
       },
       {
-        "name": "React",
-        "class": "devicon-react-original",
+        "name": "Angular",
+        "class": "devicon-angularjs-plain",
         "level": "80"
       },
       {
@@ -64,19 +54,9 @@
         "level": "70"
       },
       {
-        "name": "jQuery",
-        "class": "devicon-jquery-plain",
-        "level": "70"
-      },
-      {
-        "name": "Node.js",
-        "class": "devicon-nodejs-plain",
-        "level": "70"
-      },
-      {
-        "name": "PHP",
-        "class": "devicon-php-plain",
-        "level": "80"
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "75"
       },
       {
         "name": "Bootstrap",
@@ -91,31 +71,6 @@
       {
         "name": "MySql",
         "class": "devicon-mysql-plain",
-        "level": "100"
-      },
-      {
-        "name": "Firebase",
-        "class": "devicon-firebase-plain",
-        "level": "100"
-      },
-      {
-        "name": "Apache",
-        "class": "devicon-apache-plain",
-        "level": "100"
-      },
-      {
-        "name": "Socket.IO",
-        "class": "devicon-socketio-original",
-        "level": "100"
-      },
-      {
-        "name": "Unity",
-        "class": "devicon-unity-plain",
-        "level": "75"
-      },
-      {
-        "name": "Photoshop",
-        "class": "devicon-photoshop-plain",
         "level": "100"
       }
     ]

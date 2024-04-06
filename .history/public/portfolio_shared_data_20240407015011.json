@@ -64,11 +64,6 @@
         "level": "70"
       },
       {
-        "name": "jQuery",
-        "class": "devicon-jquery-plain",
-        "level": "70"
-      },
-      {
         "name": "Node.js",
         "class": "devicon-nodejs-plain",
         "level": "70"
@@ -82,6 +77,11 @@
         "name": "Bootstrap",
         "class": "devicon-bootstrap-plain",
         "level": "85"
+      },
+      {
+        "name": "Unity",
+        "class": "devicon-unity-plain",
+        "level": "75"
       },
       {
         "name": "C#",
@@ -106,16 +106,6 @@
       {
         "name": "Socket.IO",
         "class": "devicon-socketio-original",
-        "level": "100"
-      },
-      {
-        "name": "Unity",
-        "class": "devicon-unity-plain",
-        "level": "75"
-      },
-      {
-        "name": "Photoshop",
-        "class": "devicon-photoshop-plain",
         "level": "100"
       }
     ]

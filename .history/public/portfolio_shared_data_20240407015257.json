@@ -84,6 +84,11 @@
         "level": "85"
       },
       {
+        "name": "Unity",
+        "class": "devicon-unity-plain",
+        "level": "75"
+      },
+      {
         "name": "C#",
         "class": "devicon-csharp-plain",
         "level": "65"
@@ -109,13 +114,8 @@
         "level": "100"
       },
       {
-        "name": "Unity",
-        "class": "devicon-unity-plain",
-        "level": "75"
-      },
-      {
-        "name": "Photoshop",
-        "class": "devicon-photoshop-plain",
+        "name": "Linux",
+        "class": "devicon-linux-plain",
         "level": "100"
       }
     ]
