@@ -29,7 +29,11 @@ html {
 	width: 150px;
 }
 
-.iconify.header-icon {
+[data-theme="light"] .iconify.header-icon {
+	color: #313131 !important;
+}
+
+[data-theme="dark"] .iconify.header-icon {
 	color: #F8F5F4 !important;
 }
 
