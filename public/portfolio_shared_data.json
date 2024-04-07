@@ -1,6 +1,6 @@
 {
   "basic_info": {
-    "name": "Davina Griss",
+    "name": "Chia Yu Yang",
     "titles": [
       "Front-end Developer",
       "Senior Data Engineer",
@@ -9,14 +9,24 @@
     ],
     "social": [
       {
-        "name": "github",
-        "url": "https://github.com",
+        "name": "GitHub",
+        "url": "https://github.com/kk98033",
         "class": "fab fa-github"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@evayang138/featured",
+        "class": "fab fa-youtube"
+      },
+      {
+        "name": "Blog",
+        "url": "https://blog.iddle.dev",
+        "class": "fas fa-blog"
+      },
+      {
+        "name": "Steam",
+        "url": "https://steamcommunity.com/id/IddleFromTaiwan/",
+        "class": "fab fa-steam"
       }
     ],
     "image": "myProfile.jpg"
