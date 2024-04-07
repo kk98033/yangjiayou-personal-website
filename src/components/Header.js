@@ -11,6 +11,22 @@ class Header extends Component {
     this.onThemeSwitchChange = this.onThemeSwitchChange.bind(this);
   }
 
+  componentDidMount() {
+    this.setInitialTheme();
+  }
+
+  setInitialTheme() {
+    const dataThemeAttribute = "data-theme";
+    const body = document.body;
+    const currentTheme = body.getAttribute(dataThemeAttribute);
+
+    // setting dark mode as initial theme
+    if (!currentTheme || currentTheme !== "dark") {
+      body.setAttribute(dataThemeAttribute, "dark");
+      this.setState({ checked: true });
+    }
+  }
+
   onThemeSwitchChange(checked) {
     this.setState({ checked });
     this.setTheme();
