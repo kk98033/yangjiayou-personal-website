@@ -85,9 +85,15 @@
       "title": "大學三年級",
       "icon": "far fa-tree",
       "years": "2023.07 - present",
+      "description": "lorem",
       "mainTech": [
         "畢業專題製作",
         "CPE"
+      ],
+      "experienceList": [
+        "a",
+        "b",
+        "c"
       ],
       "technologies": [
         "Python",
@@ -111,11 +117,17 @@
       "title": "大學二年級",
       "icon": "far fa-leaf",
       "years": "2022.07- 2023.07",
+      "description": "lorem",
       "mainTech": [
         "CPE",
         "Frontend",
         "Backend",
         "GCP"
+      ],
+      "experienceList": [
+        "a",
+        "b",
+        "c"
       ],
       "technologies": [
         "Python",
@@ -140,9 +152,15 @@
       "title": "大學一年級",
       "icon": "far fa-seedling",
       "years": "2021.07 - 2022.07",
+      "description": "lorem",
       "mainTech": [
         "Frontend",
         "Unity"
+      ],
+      "experienceList": [
+        "a",
+        "b",
+        "c"
       ],
       "technologies": [
         "Python",
@@ -162,9 +180,15 @@
       "title": "高中",
       "icon": "far fa-book",
       "years": "2021.07 - 2022.07",
+      "description": "lorem",
       "mainTech": [
         "Python",
         "Kivy"
+      ],
+      "experienceList": [
+        "a",
+        "b",
+        "c"
       ],
       "technologies": [
         "Source Filmmaker",

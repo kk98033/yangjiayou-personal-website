@@ -14,6 +14,8 @@ class Experience extends Component {
         const technologies = work.technologies;
         const mainTechnologies = work.mainTech;
         const iconClass = work.icon;
+        const experienceList = work.experienceList || [];
+        const description = work.description;
 
         var mainTech = mainTechnologies.map((technology, i) => {
           return (
@@ -29,6 +31,15 @@ class Experience extends Component {
             </Badge>
           );
         });
+
+        var experienceItems = experienceList.map((experience, i) => {
+          return (
+            <li key={i}>
+              {experience}
+            </li>
+          );
+        });
+
         return (
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
@@ -58,7 +69,10 @@ class Experience extends Component {
               {work.company}
             </h4>
             {/* TODO: 自訂描述 */}
-            <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+            <ul style={{ listStyleType: "disc", paddingLeft: '10px' }}>
+              {experienceItems}
+            </ul>
+            <div>{description}</div>
             <div style={{ textAlign: "left", marginTop: "15px", marginBottom: "3px" }}>Skills I Learned</div>
             <div style={{ textAlign: "left" }}>{tech}</div>
           </VerticalTimelineElement>
