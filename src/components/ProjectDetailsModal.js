@@ -93,6 +93,7 @@ class ProjectDetailsModal extends Component {
                 </a>
               ) : null}
             </h3>
+            {/* TODO: 增加多行的功能 */}
             <p className="modal-description">{description}</p>
             <div className="col-md-12 text-center">
               <ul className="list-inline mx-auto">{tech}</ul>

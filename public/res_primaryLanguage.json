@@ -11,22 +11,26 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "利用大型語言模型（LLM）與虛擬實境（VR）結合，實現原住民教育（持續進行中🛠️）",
+      "startDate": "2024",
+      "description": "這是我的畢業專題，主旨是利用 LLM 技術驅動的虛擬教師來幫助學生在 VR 中沈浸式體驗並且學習原住民文化，目前還在持續進行中🛠️，預計今年(2024)暑假結束前完工，有投大專生計畫，到時候七月見真章😈。至於我為什麼照片是放胡桃？1.因為我們還沒有找到合適的老師 3D 模型 2.胡桃很可愛",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/LLM-project/hutao.jpg",
+        "images/portfolio/LLM-project/hutao-screenshot.png"
       ],
-      "url": "",
+      "url": "https://github.com/kk98033/NTTU-Digital-System-Design-Lab-Project",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "fa-brands fa-meta",
+          "name": "LLaMA2"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-unity-plain",
+          "name": "Unity"
         },
         {
           "class": "devicon-csharp-plain",
@@ -35,32 +39,32 @@
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "title": "Blog",
+      "startDate": "2023",
+      "description": "打算作成長期運營項目，上面會分享我解 UVa 題目的心得以及最近學到的東西筆記，正在努力更新中😵‍💫。伺服器一個月不便宜，願意的話可以點個裡面的廣告支持一下🥺🥺，感謝 <3",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/blog/blog-main.png",
+        "images/portfolio/blog/blog-2.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://blog.iddle.dev",
       "technologies": [
         {
-          "class": "devicon-react-original",
-          "name": "React"
+          "class": "devicon-python-plain",
+          "name": "Python"
         },
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
+          "class": "devicon-html5-plain",
+          "name": "HTML"
         }
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "暫時想不到要放什麼，但不放空空的感覺很怪。",
+      "startDate": "2024",
+      "description": "暫時想不到要放什麼，但不放空空的感覺很怪。索性就炫耀一下我最近抽到的濁心斯卡蒂嘿嘿嘿",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/adventure/temp.png",
+        "images/portfolio/adventure/tired.jpg"
       ],
       "url": "https://github.com",
       "technologies": [
