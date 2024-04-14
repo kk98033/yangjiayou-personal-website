@@ -4,7 +4,6 @@
     "titles": [
       "Computer Science & Engineering Student",
       "Competitive Programming Enthusiast",
-      "Full Stack Engineer",
       "Game Designer",
       "FPS Gamer :3"
     ],
@@ -30,7 +29,7 @@
         "class": "fab fa-steam"
       }
     ],
-    "image": "myProfile.jpg"
+    "image": "avatar.jpeg"
   },
   "skills": {
     "icons": [

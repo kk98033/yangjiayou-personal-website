@@ -28,6 +28,9 @@ class Footer extends Component {
                   : "???"}
               </small>
               <div>
+                <small>Contact Me: <i class="fas fa-envelope"></i> <a href="mailto:a8829037@gmail.com" target="_blank">a8829037@gmail.com</a></small>
+              </div>
+              <div>
                 <small>based on original work by <a href="https://github.com/Dorota1997/react-frontend-dev-portfolio" target="_blank">Davina Griss.</a></small>
               </div>
             </div>
