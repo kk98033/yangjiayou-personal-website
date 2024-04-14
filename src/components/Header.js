@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Typical from "react-typical";
 import Switch from "react-switch";
 import ParticleCanvas from "./ParticleCanvas"
+import Arrow from "./Arrow"
 
 class Header extends Component {
   titles = [];
@@ -108,6 +109,7 @@ class Header extends Component {
             </div>
           </div>
         </div>
+        <Arrow />
       </header>
     );
   }

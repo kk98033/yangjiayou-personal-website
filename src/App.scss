@@ -7,6 +7,7 @@ html {
 	-webkit-font-smoothing: antialiased;
 	margin: 0;
 	padding: 0;
+	scroll-behavior: smooth;
 }
 
 .aligner {
@@ -465,15 +466,15 @@ body {
 	height: 82px;
 	position: absolute;
 	/* don't forget set container to relative */
-	left: 49%;
-	margin-left: 0px;
-	bottom: 5%;
-	z-index: 999;
+	left: 50%;
+	margin-left: -30px;
+	bottom: -3%;
+	z-index: 99999;
 }
 
 /* set arrow styles */
 .arrow path {
-	stroke: #e74c3c;
+	stroke: #f4f4f4;
 	stroke-width: 2px;
 	fill: transparent;
 	animation: down 2s infinite;
