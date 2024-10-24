@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 你好，我是楊家宥，目前在國立臺東大學資訊工程學系就讀。😄 我正致力於生成式 AI 研究和我的畢業專題製作，專題主題是「利用大型語言模型（LLM）與虛擬實境（VR）結合，實現原住民教育」。我的興趣涉獵廣泛，包括玩 FPS 遊戲🎮、寫程式💻、打羽球🏸、聆聽音樂劇🎭。我擅長於網頁前後端開發、程式解題、雲端計算、架設伺服器、以及 、Google SEO。此外，我還熱衷於程式解題，並在我的部落格上分享 UVa 題目的解法和學習心得。如果你對這些內容感興趣，歡迎訪問我的部落格：blog.iddle.dev 查看更多信息！:3",
+    "description": "我是楊家宥，目前在國立臺東大學資訊工程學系就讀。目前正致力於生成式 AI 研究和畢業專題製作，專題主題是「利用大型語言模型（LLM）與虛擬實境（VR）結合，實現原住民教育」。我的興趣涉獵廣泛，包括遊戲🎮、寫程式💻。我擅長於網頁前後端開發、競程、雲端計算、架設伺服器、以及 Google SEO。此外，我還熱衷於競程，並在我的部落格上分享 UVa 題目的解法和學習心得。如果你對這些內容感興趣，歡迎訪問我的部落格：blog.iddle.dev 查看更多信息！:3",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -11,12 +11,13 @@
   },
   "projects": [
     {
-      "title": "利用大型語言模型（LLM）與虛擬實境（VR）結合，實現原住民教育（持續進行中🛠️）",
-      "startDate": "2024",
-      "description": "這是我的畢業專題，主旨是利用 LLM 技術驅動的虛擬教師來幫助學生在 VR 中沈浸式體驗並且學習原住民文化，目前還在持續進行中🛠️，預計今年(2024)暑假結束前完工，有投大專生計畫，到時候七月見真章😈。至於我為什麼照片是放胡桃？1.因為我們還沒有找到合適的老師 3D 模型 2.胡桃很可愛",
+      "title": "[大專生研究計畫] 沈浸式語言互動與文化傳承:利用大型語言模型(LLM)於 3D 虛擬實境中傳播臺灣原住民文化的創新教學策略",
+      "startDate": "2024/07/01~2025/02/28",
+      "description": "這是我的畢業專題兼大專生研究計畫，主旨是利用 LLM 技術驅動的虛擬教師來幫助學生在 VR 中沈浸式體驗並且學習原住民文化",
       "images": [
-        "images/portfolio/LLM-project/hutao.jpg",
-        "images/portfolio/LLM-project/hutao-screenshot.png"
+        "images/portfolio/LLM-project/首頁.png",
+        "images/portfolio/LLM-project/流程圖.png",
+        "images/portfolio/LLM-project/介紹圖片.png"
       ],
       "url": "https://github.com/kk98033/NTTU-Digital-System-Design-Lab-Project",
       "technologies": [
